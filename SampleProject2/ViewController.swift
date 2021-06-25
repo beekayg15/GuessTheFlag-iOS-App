@@ -20,7 +20,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        navigationItem.rightBarButtonItem = UIBarButtonItem(barButtonSystemItem: .action, target: self, action: #selector(displayScore))
+        navigationItem.rightBarButtonItem = UIBarButtonItem(title: "Score", style: .plain,  target: self, action: #selector(displayScore))
         
         setNewGame(action: nil)
     }
