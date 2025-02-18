@@ -5,7 +5,6 @@ A simple puzzle game developed in order to understand the concepts of buttons, r
 <p>
 <img width="45" height="45" hspace="10" src="https://cdn.worldvectorlogo.com/logos/swift-15.svg"/>
 <img width="45" height="45" hspace="10" src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png"/>
-<img width="45" height="45" hspace="10" src="https://developer.apple.com/design/human-interface-guidelines/macos/images/app-icon-realistic-materials_2x.png"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 <img width="45" height="45" hspace="10" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"/>
 </p>
